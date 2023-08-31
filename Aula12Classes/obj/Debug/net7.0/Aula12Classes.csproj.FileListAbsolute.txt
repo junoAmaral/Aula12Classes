@@ -1,0 +1,15 @@
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.exe
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.deps.json
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.runtimeconfig.json
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.dll
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.pdb
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.csproj.AssemblyReference.cache
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.AssemblyInfoInputs.cache
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.AssemblyInfo.cs
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.csproj.CoreCompileInputs.cache
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.dll
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\refint\Aula12Classes.dll
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.pdb
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.genruntimeconfig.cache
+C:\Users\juno.amaral\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\ref\Aula12Classes.dll
